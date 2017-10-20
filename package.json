@@ -1,0 +1,23 @@
+{
+  "name": "google-closure-externs",
+  "version": "1.0.0",
+  "description": "Externs for Google Closure Compiler",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cakuki/google-closure-externs.git"
+  },
+  "keywords": [
+    "closure-compiler",
+    "google-closure-compiler",
+    "externs"
+  ],
+  "author": "Can Kutlu Kinay <me@ckk.im> (http://ckk.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cakuki/google-closure-externs/issues"
+  },
+  "homepage": "https://github.com/cakuki/google-closure-externs#readme"
+}
